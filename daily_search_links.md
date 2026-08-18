@@ -48,6 +48,24 @@ Search pages only (no fixed job IDs) — these stay live as postings churn.
 - [Meta — University programs](https://www.metacareers.com/careerprograms/students/)
 - [Instawork — careers page](https://instawork.com/careers)
 
+## Startup-specific job boards (added 2026-08-18)
+Dedicated startup job boards — often better odds for a strong new grad than FAANG's general listings.
+- [Wellfound — Program Manager, United States](https://wellfound.com/role/l/program-manager/united-states)
+- [Wellfound — Operations Analyst, United States](https://wellfound.com/role/l/operations-analyst/united-states)
+- [Wellfound — Technical Program Manager, Remote](https://wellfound.com/role/r/technical-program-manager)
+- [Wellfound — Program Manager, Remote](https://wellfound.com/role/r/program-manager)
+- [Y Combinator — Work at a Startup, "program manager"](https://www.workatastartup.com/jobs?query=program+manager)
+- [Y Combinator — Work at a Startup, "operations analyst"](https://www.workatastartup.com/jobs?query=operations+analyst)
+
+## AI-native & high-growth startup career boards (company-wide, not a fixed posting)
+Confirmed live TPM/Ops reqs as of 2026-08-18 — these companies hire frequently, worth checking often.
+- [Anthropic — all openings](https://job-boards.greenhouse.io/anthropic)
+- [Scale AI — all openings](https://job-boards.greenhouse.io/scaleai)
+- [Ramp — all openings](https://ramp.com/careers)
+- [Rippling — all openings](https://www.rippling.com/careers/open-roles)
+- [Notion — all openings](https://www.notion.com/careers)
+- [Vanta — all openings](https://www.vanta.com/company/careers)
+
 ## By priority metro (Technical Program Manager, swap keyword as needed)
 - [Seattle/Redmond/Bellevue, WA — past 24h](https://www.linkedin.com/jobs/search/?keywords=Technical%20Program%20Manager&location=Seattle%2C%20Washington&f_TPR=r86400)
 - [New York, NY — past 24h](https://www.linkedin.com/jobs/search/?keywords=Technical%20Program%20Manager&location=New%20York%2C%20New%20York&f_TPR=r86400)

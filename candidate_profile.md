@@ -29,6 +29,13 @@ Cross-functional program/project management, capacity & supply planning, demand 
 ## Target companies (priority order)
 Apple, Google, Microsoft, Amazon, Meta — then Stripe, Airbnb, Samsara, Databricks, Snowflake, Uber, DoorDash, Instacart, Cisco, Salesforce, ServiceNow, Nvidia, Cummins (full-time conversion).
 
+### Startups & AI-native companies (added 2026-08-18 — often more open to strong new grads than FAANG's general listings)
+- **AI-native (strong fit — her AI agent-building experience with Copilot Studio/LangChain/GPT-4 is directly relevant):** Anthropic, Scale AI, OpenAI, Perplexity, Sierra
+- **High-growth ops/fintech (strong fit — ops, process automation, analytics background):** Ramp, Brex, Rippling, Deel, Mercury, Flexport, Faire, Gusto
+- **Product/collab tools:** Notion, Figma, Linear, Airtable, Retool, Vanta
+- Confirmed both Anthropic and Scale AI use Greenhouse and had live TPM/Program Manager/Ops reqs as of 2026-08-18 — check their board links in `daily_search_links.md` regularly, they hire frequently.
+- General rule for startups: reason about fit qualitatively even if a listing nominally asks for more YOE than she has — fast-moving startups often value the quantified impact in her resume (forecast error 18%→9%, $200K cost savings, 80% process-time reduction) over a strict years-of-experience bar. Worth applying broadly here, more so than at FAANG.
+
 ## Priority locations (in this order)
 1. **California** — Los Angeles (home base), SF Bay Area (San Francisco, Mountain View, Sunnyvale, Cupertino, Menlo Park, San Jose)
 2. **Washington** — Seattle, Redmond, Bellevue
