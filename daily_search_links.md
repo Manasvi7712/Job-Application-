@@ -2,7 +2,9 @@
 
 Click any link below on any day — the date filter is applied live by the platform, so you always see that day's fresh postings. No scraping involved; these are just pre-built search URLs (LinkedIn `f_TPR=r86400` = posted past 24h, Indeed `fromage=1` = posted past day).
 
-Bookmark this file. The daily agent re-checks these same searches every morning and pulls out standout postings into `logs/YYYY-MM-DD.md`.
+**Every link on this page is a search query, never a specific job posting.** Individual job-ID links (e.g. `/jobs/3077884/`) go dead the moment that req is filled — this was tried and confirmed broken twice on 2026-08-18. Search-query links can't go dead; they just show whatever's open right now. This file is intentionally the only place to click through — the daily log describes findings in prose but doesn't paste specific job-ID URLs.
+
+Bookmark this file. The daily agent re-checks these same searches every morning and describes standout findings in `logs/YYYY-MM-DD.md`, but always points you back here to click through.
 
 ## 1. Technical Program Manager
 - [LinkedIn — US, past 24h](https://www.linkedin.com/jobs/search/?keywords=Technical%20Program%20Manager&location=United%20States&f_TPR=r86400)
@@ -31,6 +33,20 @@ Bookmark this file. The daily agent re-checks these same searches every morning 
 - [LinkedIn — US, past 24h](https://www.linkedin.com/jobs/search/?keywords=Program%20Manager%20New%20Grad&location=United%20States&f_TPR=r86400)
 - [Indeed — US, past 24h](https://www.indeed.com/jobs?q=Program+Manager+New+Grad&l=United+States&fromage=1)
 - [Microsoft — Students/New Grad](https://careers.microsoft.com/students/us/en/usjobs)
+
+## Direct company career-page searches
+Search pages only (no fixed job IDs) — these stay live as postings churn.
+- [Apple — Program Management team, US](https://jobs.apple.com/en-us/search?location=united-states-USA&team=program-management-OPMFG-PRMGMT)
+- [Apple — full search box](https://jobs.apple.com/en-us/search?search=program%20manager)
+- [Google — students & new grads](https://careers.google.com/students/)
+- [Google — full search](https://careers.google.com/jobs/results/?q=Technical%20Program%20Manager)
+- [Microsoft — Program Manager 2 (early-career band)](https://jobs.careers.microsoft.com/global/en/search?q=Program%20Manager%202)
+- [Microsoft — students/new grad](https://careers.microsoft.com/students/us/en/usjobs)
+- [Amazon — Jobs for Grads](https://www.amazon.jobs/content/en/career-programs/university/jobs-for-grads)
+- [Amazon — full search](https://www.amazon.jobs/en/search?base_query=program+manager&loc_query=United+States)
+- [Meta — full search](https://www.metacareers.com/jobs/?q=Technical%20Program%20Manager)
+- [Meta — University programs](https://www.metacareers.com/careerprograms/students/)
+- [Instawork — careers page](https://instawork.com/careers)
 
 ## By priority metro (Technical Program Manager, swap keyword as needed)
 - [Seattle/Redmond/Bellevue, WA — past 24h](https://www.linkedin.com/jobs/search/?keywords=Technical%20Program%20Manager&location=Seattle%2C%20Washington&f_TPR=r86400)
