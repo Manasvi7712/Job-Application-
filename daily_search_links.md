@@ -69,6 +69,8 @@ Confirmed live TPM/Ops reqs as of 2026-08-18 — these companies hire frequently
 - [Brex — all openings](https://www.brex.com/careers)
 - [Gusto — all openings](https://gusto.com/about/careers/join-the-team)
 - [Retool — all openings](https://retool.com/careers)
+- [Instawork — all openings](https://job-boards.greenhouse.io/instawork)
+- [Flexport — all openings](https://www.flexport.com/careers/jobs/)
 
 ## By priority metro (Technical Program Manager, swap keyword as needed)
 - [Seattle/Redmond/Bellevue, WA — past 24h](https://www.linkedin.com/jobs/search/?keywords=Technical%20Program%20Manager&location=Seattle%2C%20Washington&f_TPR=r86400)
