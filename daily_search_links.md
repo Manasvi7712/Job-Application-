@@ -71,6 +71,9 @@ Confirmed live TPM/Ops reqs as of 2026-08-18 — these companies hire frequently
 - [Retool — all openings](https://retool.com/careers)
 - [Instawork — all openings](https://job-boards.greenhouse.io/instawork)
 - [Flexport — all openings](https://www.flexport.com/careers/jobs/)
+- [Ramp — all openings (Ashby board)](https://jobs.ashbyhq.com/Ramp)
+- [Airtable — all openings](https://job-boards.greenhouse.io/airtable)
+- [Deel — all openings](https://jobs.ashbyhq.com/Deel)
 
 ## By priority metro (Technical Program Manager, swap keyword as needed)
 - [Seattle/Redmond/Bellevue, WA — past 24h](https://www.linkedin.com/jobs/search/?keywords=Technical%20Program%20Manager&location=Seattle%2C%20Washington&f_TPR=r86400)
