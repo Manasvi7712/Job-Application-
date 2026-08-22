@@ -75,6 +75,11 @@ Confirmed live TPM/Ops reqs as of 2026-08-18 — these companies hire frequently
 - [Airtable — all openings](https://job-boards.greenhouse.io/airtable)
 - [Deel — all openings](https://jobs.ashbyhq.com/Deel)
 
+## Finance-adjacent structured new-grad programs (added 2026-08-22)
+Outside the core tech target list, but these run exactly the kind of structured rotational Operations Analyst program that fits her level — worth checking even though they're a different industry.
+- [JPMorgan Chase — students & graduates](https://careers.jpmorgan.com/US/en/students) — runs a 2026 Operations Analyst Program (Full-Time Analyst, June cohort) based in Chicago & NY Metro.
+- [Freddie Mac — full-time graduate opportunities](https://careers.freddiemac.com/us/en/full-time-graduate-opportunities) — runs an Operations Analyst Rotational Program for recent grads.
+
 ## By priority metro (Technical Program Manager, swap keyword as needed)
 - [Seattle/Redmond/Bellevue, WA — past 24h](https://www.linkedin.com/jobs/search/?keywords=Technical%20Program%20Manager&location=Seattle%2C%20Washington&f_TPR=r86400)
 - [New York, NY — past 24h](https://www.linkedin.com/jobs/search/?keywords=Technical%20Program%20Manager&location=New%20York%2C%20New%20York&f_TPR=r86400)
