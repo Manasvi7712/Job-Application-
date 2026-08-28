@@ -44,5 +44,9 @@ Apple, Google, Microsoft, Amazon, Meta — then Stripe, Airbnb, Samsara, Databri
 5. **Remote — United States**
 6. Secondary: Chicago IL, Atlanta GA, Denver/Boulder CO
 
+## Confirmed exact titles to watch for (found 2026-08-28)
+- **Google — "Technical Program Manager, University Graduate [year]"** — this exact title is Google's real new-grad TPM track (confirmed via the 2026 cohort posting). Watch for "University Graduate 2027" to appear — Aug–Sept is the seasonal posting window, so check this specifically every run. Note: the 2026 posting's stated requirement was "currently enrolled in an MBA/integrated program + 1 yr PM experience," which doesn't perfectly match her M.S. Engineering Management background — worth applying anyway and letting Google's recruiting team assess fit, but don't assume automatic disqualification.
+- **Microsoft — "Program Manager, University Grad"** (also search "Product Manager" — Microsoft's PM title covers both product and technical program management, unlike most companies). Early-career hiring goes through "Early in Profession" / Aspire program.
+
 ## Exclusions
 Senior/Staff/Principal-only postings (5+ YOE required with no new-grad path), roles requiring US-only work authorization she doesn't hold (flag if unclear), non-US locations.
