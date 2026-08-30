@@ -42,6 +42,7 @@ Search pages only (no fixed job IDs) — these stay live as postings churn.
 - [Google — full search](https://careers.google.com/jobs/results/?q=Technical%20Program%20Manager)
 - [Microsoft — Program Manager 2 (early-career band)](https://jobs.careers.microsoft.com/global/en/search?q=Program%20Manager%202)
 - [Microsoft — students/new grad](https://careers.microsoft.com/students/us/en/usjobs)
+- [Microsoft — full-time student jobs, US](https://careers.microsoft.com/students/us/en/us-fulltime-opportunities)
 - [Amazon — Jobs for Grads](https://www.amazon.jobs/content/en/career-programs/university/jobs-for-grads)
 - [Amazon — full search](https://www.amazon.jobs/en/search?base_query=program+manager&loc_query=United+States)
 - [Meta — full search](https://www.metacareers.com/jobs/?q=Technical%20Program%20Manager)
